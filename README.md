@@ -26,7 +26,7 @@ This project involves analyzing customer data for a subscription service to iden
 
 ### Data Sources
 ---
-The Primary Source of this data was provided by the Incubator Hub and can be gotten [here](https://docs.google.com/spreadsheets/d/1urd2IUb7pRdGq8uHZ1njgDbtaCh4GCwF/edit?usp=drive_link&ouid=114961730859133220198&rtpof=true&sd=true)
+The Incubator Hub provided the Primary Source of this data and can be gotten [here](https://docs.google.com/spreadsheets/d/1urd2IUb7pRdGq8uHZ1njgDbtaCh4GCwF/edit?usp=drive_link&ouid=114961730859133220198&rtpof=true&sd=true)
 
 ### Tools Used
 ---
@@ -69,13 +69,13 @@ Here are some of the questions to answered in this Analysis:
 1. Total number of Customers.
 2. Most Popular subscription among Customers
 3. Average Subscription duration
-4. Total revenue per year, per region and per subscription type.
-5. Total Number of active and canceled subscription and Revenue generated from each.
+4. Total revenue per year, per region, and subscription type.
+5. Total Number of active and canceled subscriptions and Revenue generated from each.
 
 ### Data Analysis
 ---
 
-1. To find out the Total Revenue by Subscription types,region and year, Pivot tables was used in Excel and also sql queries.
+1. To find out the Total Revenue by Subscription types,region, and year, Pivot tables were used in Excel and SQL queries.
 
     -Total Revenue by Year
    
@@ -85,8 +85,8 @@ Here are some of the questions to answered in this Analysis:
     |2023|59,916,717.00|
 
   - Total Revenue per subscription type
-    This can be found with either the use of sql query or pivot table in excel.
-          ```Select
+    This can be found with either the use of SQL query or pivot table in Excel.
+          ```Select                                                                                                              
       SubscriptionType, 
       SUM(Revenue)
       as 'Total Revenue' 
@@ -112,22 +112,25 @@ Here are some of the questions to answered in this Analysis:
 ### Data Visualization
 ---
 
-There are few Visualizations in the excel file but will be showing visualization using the Ms PowerBi
+There are a few Visualizations in the Excel file but will be showing visualization using Ms PowerBi
 
-  1. Key Customers information report
+  1. Key Customer information report
 
-     
+    ![customerSegmentationReport](https://github.com/user-attachments/assets/ceb5798b-f30e-4ec4-9059-22eefaec8c44)
+
   2. Customer Subscription Trends Report
 
+    ![Customer Subscription Trends](https://github.com/user-attachments/assets/c30478f0-f35a-4b97-abc6-240c48684ffa)
 
   3. Customer Subscription Cancelation Report
 
+     ![SubscriptionCancellation report](https://github.com/user-attachments/assets/92d85228-2fb0-4298-93b9-9e5b8212b272)
 
 
  ### Drawing Inference
  ---
 
- From the exploratory result and visualization the inferences drawn are:
+ From the exploratory result and visualization, the inferences drawn are:
 
 ### Data Conclusion and Predictions
 ---
