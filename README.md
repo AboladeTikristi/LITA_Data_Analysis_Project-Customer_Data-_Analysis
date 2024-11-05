@@ -115,13 +115,12 @@ Here are some of the questions to answered in this Analysis:
 There are a few Visualizations in the Excel file but will be showing visualization using Ms PowerBi
 
   1. Key Customer information report
-     
-	![customerSegmentationReport](https://github.com/user-attachments/assets/2da1079d-3d8c-46c9-a428-5cebe58ea2e7)
 
+ ![customerSegmentationReport](https://github.com/user-attachments/assets/2da1079d-3d8c-46c9-a428-5cebe58ea2e7)
 
   3. Customer Subscription Trends Report
 
-    ![Customer Subscription Trends](https://github.com/user-attachments/assets/c30478f0-f35a-4b97-abc6-240c48684ffa)
+     	![Customer Subscription Trends](https://github.com/user-attachments/assets/c30478f0-f35a-4b97-abc6-240c48684ffa)
 
   3. Customer Subscription Cancelation Report
 
