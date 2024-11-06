@@ -151,7 +151,6 @@ Measures Created in Powerbi are:
   3. Customer Subscription Trends Report
 	This shows the subscription trend down the month and the sum of revenue ctgorized by subscription type.
 
-     	![Customer Subscription Trends](https://github.com/user-attachments/assets/c30478f0-f35a-4b97-abc6-240c48684ffa)
      	![Customer Subscription Trends](https://github.com/user-attachments/assets/c8013034-f4b0-4c25-8f3a-8928f8ec136a)
 
 
@@ -181,4 +180,4 @@ In conclusion, The company is loosing money and customers.
 Hence, some Proposals are:
 
 1. The company needs to focus on reducing cancelation rate and also increase of subscription as the year goes by.
-2. The Company shoul also foocus on increasing subscription sales in the east where there are ni cancellations
+2. The Company shoul also foocus on increasing subscription sales in the east where there are no cancellations
